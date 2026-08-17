@@ -1,7 +1,7 @@
 {
-  "version": "0.5.5",
-  "notes": "Розсилка у фоні (не залежить від вкладки), AI-промт + {{name}} для чатів, фікс редіректу на Online.aspx.",
-  "pub_date": "2026-08-16T23:57:49Z",
+  "version": "0.5.6",
+  "notes": "ТЕСТ апдейтера — банер має з'явитися у v0.5.5.",
+  "pub_date": "2026-08-17T00:04:06Z",
   "downloads": {
     "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.5/Dating-Chat-Assistant-0.5.5-AppleSilicon.dmg",
     "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.5/Dating-Chat-Assistant-0.5.5-Intel.dmg",
