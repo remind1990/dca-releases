@@ -1,11 +1,11 @@
 {
-  "version": "0.5.9",
-  "notes": "Вкладки у два ряди, VIP-розсилка працює, аудиторія Inbox, надійні листи, фікс авто-Soulmate",
-  "pub_date": "2026-08-20T20:08:22Z",
+  "version": "0.5.12",
+  "notes": "Нова версія 0.5.12",
+  "pub_date": "2026-08-20T23:13:33Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.9/Dating-Chat-Assistant-0.5.9-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.9/Dating-Chat-Assistant-0.5.9-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.5.9/Dating-Chat-Assistant-0.5.9-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.5.9/Dating.Chat.Assistant.Setup.0.5.9.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.12/Dating-Chat-Assistant-0.5.12-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.5.12/Dating-Chat-Assistant-0.5.12-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.5.12/Dating-Chat-Assistant-0.5.12-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.5.12/Dating.Chat.Assistant.Setup.0.5.12.exe"
   }
 }
