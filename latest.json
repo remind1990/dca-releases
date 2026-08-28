@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Нова версія 0.6.0",
-  "pub_date": "2026-08-25T02:05:49Z",
+  "version": "0.6.1",
+  "notes": "Нова версія 0.6.1",
+  "pub_date": "2026-08-28T00:06:33Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.0/Dating-Chat-Assistant-0.6.0-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.0/Dating-Chat-Assistant-0.6.0-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.6.0/Dating-Chat-Assistant-0.6.0-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.6.0/Dating.Chat.Assistant.Setup.0.6.0.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.1/Dating-Chat-Assistant-0.6.1-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.1/Dating-Chat-Assistant-0.6.1-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.6.1/Dating-Chat-Assistant-0.6.1-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.6.1/Dating.Chat.Assistant.Setup.0.6.1.exe"
   }
 }
