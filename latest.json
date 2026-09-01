@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "Листи без відповіді — прямо на вкладці. Пишіть, якщо цифра здається неправильною.",
-  "pub_date": "2026-08-31T00:52:22Z",
+  "version": "0.6.4",
+  "notes": "Конверт показує НОВІ листи. Плюс попередження, поки лист не згорів.",
+  "pub_date": "2026-09-01T21:12:41Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.3/Dating-Chat-Assistant-0.6.3-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.3/Dating-Chat-Assistant-0.6.3-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.6.3/Dating-Chat-Assistant-0.6.3-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.6.3/Dating.Chat.Assistant.Setup.0.6.3.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating.Chat.Assistant.Setup.0.6.4.exe"
   }
 }
