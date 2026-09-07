@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "Конверт показує НОВІ листи. Плюс попередження, поки лист не згорів.",
-  "pub_date": "2026-09-01T21:12:41Z",
+  "version": "0.7.0",
+  "notes": "Виправлено чоловіка, що відкривався сам, та ім'я в листах на дейтингу",
+  "pub_date": "2026-09-07T15:56:02Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating-Chat-Assistant-0.6.4-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.6.4/Dating.Chat.Assistant.Setup.0.6.4.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.0/Dating-Chat-Assistant-0.7.0-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.0/Dating-Chat-Assistant-0.7.0-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.7.0/Dating-Chat-Assistant-0.7.0-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.7.0/Dating.Chat.Assistant.Setup.0.7.0.exe"
   }
 }
