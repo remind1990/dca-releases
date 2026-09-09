@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Тримає сесію сама; імя з великої літери",
-  "pub_date": "2026-09-07T23:49:37Z",
+  "version": "0.7.3",
+  "notes": "Вікно про неактивність більше не з'являється",
+  "pub_date": "2026-09-09T22:08:36Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.1/Dating-Chat-Assistant-0.7.1-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.1/Dating-Chat-Assistant-0.7.1-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.7.1/Dating-Chat-Assistant-0.7.1-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.7.1/Dating.Chat.Assistant.Setup.0.7.1.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.3/Dating-Chat-Assistant-0.7.3-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v0.7.3/Dating-Chat-Assistant-0.7.3-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v0.7.3/Dating-Chat-Assistant-0.7.3-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v0.7.3/Dating.Chat.Assistant.Setup.0.7.3.exe"
   }
 }
