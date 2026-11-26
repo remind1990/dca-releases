@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Спільна робота по чоловіку: видно всю історію, а не лише свою зміну",
-  "pub_date": "2026-11-21T02:30:50Z",
+  "version": "1.1.1",
+  "notes": "Більше не вилогінює з кабінету",
+  "pub_date": "2026-11-26T21:38:34Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.0/Dating-Chat-Assistant-1.1.0-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.0/Dating-Chat-Assistant-1.1.0-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v1.1.0/Dating-Chat-Assistant-1.1.0-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v1.1.0/Dating.Chat.Assistant.Setup.1.1.0.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating.Chat.Assistant.Setup.1.1.1.exe"
   }
 }
