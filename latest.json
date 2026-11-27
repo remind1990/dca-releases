@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Більше не вилогінює з кабінету",
-  "pub_date": "2026-11-26T21:38:34Z",
+  "version": "1.1.2",
+  "notes": "id чоловіка у звіті такий самий, як у виписці агентства",
+  "pub_date": "2026-11-27T12:43:09Z",
   "downloads": {
-    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-AppleSilicon.dmg",
-    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-Intel.dmg",
-    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating-Chat-Assistant-1.1.1-Catalina-Intel.dmg",
-    "win": "https://github.com/remind1990/dca-releases/releases/download/v1.1.1/Dating.Chat.Assistant.Setup.1.1.1.exe"
+    "mac_arm64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.2/Dating-Chat-Assistant-1.1.2-AppleSilicon.dmg",
+    "mac_x64": "https://github.com/remind1990/dca-releases/releases/download/v1.1.2/Dating-Chat-Assistant-1.1.2-Intel.dmg",
+    "mac_catalina": "https://github.com/remind1990/dca-releases/releases/download/v1.1.2/Dating-Chat-Assistant-1.1.2-Catalina-Intel.dmg",
+    "win": "https://github.com/remind1990/dca-releases/releases/download/v1.1.2/Dating.Chat.Assistant.Setup.1.1.2.exe"
   }
 }
